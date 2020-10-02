@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo pacman -S tmux
+sudo pacman -S --needed tmux
